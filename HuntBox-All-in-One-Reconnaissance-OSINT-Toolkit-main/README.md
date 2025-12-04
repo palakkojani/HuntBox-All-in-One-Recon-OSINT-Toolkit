@@ -32,7 +32,7 @@ Save results instantly
 
 Perfect for OSINT, bug bounty, and pentesting labs
 
-Installation & Usage
+🚀 Installation & Usage
 
 git clone https://github.com/palakkojani/HuntBox-All-in-One-Recon-OSINT-Toolkit.git
 

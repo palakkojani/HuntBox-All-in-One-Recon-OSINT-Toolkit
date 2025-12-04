@@ -31,3 +31,9 @@ Real-time scan output
 Save results instantly
 
 Perfect for OSINT, bug bounty, and pentesting labs
+
+Installation & Usage
+
+git clone https://github.com/palakkojani/HuntBox-All-in-One-Recon-OSINT-Toolkit.git
+cd HuntBox-All-in-One-Reconnaissance-OSINT-Toolkit-main
+python3 huntbox.py
